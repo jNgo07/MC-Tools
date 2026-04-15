@@ -1,0 +1,2 @@
+the files contained in this repo belong to the employees of MC 061 Service Dept, and are free to use within the organization. while i am the one publishing them i do not take credit for being the one to come up with the original ideas,
+just the modifications made under my own name. any 061 service tech is welcome to contribute to the repo and i will go through and approve them as they're added (once they've passed testing)
