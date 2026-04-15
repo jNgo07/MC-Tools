@@ -1,0 +1,2 @@
+to use the scripts, run directly from denholm. double click run.bat to execute the commands in an elevated terminal.
+will run the dism and sfc commands and log the results in a .log file on the users desktop
