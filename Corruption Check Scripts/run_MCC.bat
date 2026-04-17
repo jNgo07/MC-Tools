@@ -44,6 +44,7 @@ CLS
 
 ::::::::::::::::::::::::::::::::::::::::::::
 :: MAIN EXECUTABLE
+:: run MC Corruption Check with elevated privileges
 ::::::::::::::::::::::::::::::::::::::::::::
 :gotPrivileges
     setlocal DisableDelayedExpansion & cd /d %~dp0
