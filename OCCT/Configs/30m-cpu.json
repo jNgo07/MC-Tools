@@ -433,9 +433,7 @@
         "Mode": "ErrorDetection",
         "UsageLimit": 100,
         "ShaderComplexity": 3,
-        "GpuIndexes": [
-          0
-        ],
+        "GpuIndexes": [],
         "TestAllGpus": false,
         "Priority": "Normal"
       },
@@ -450,9 +448,7 @@
         "SwitchInterval": 500,
         "SwitchFirstIntensity": 20,
         "SwitchSecondIntensity": 100,
-        "GpuIndexes": [
-          0
-        ],
+        "GpuIndexes": [],
         "TestAllGpus": false,
         "Priority": "Normal"
       },
@@ -465,9 +461,7 @@
         "Priority": "Normal"
       },
       "VramConfig": {
-        "GpuIndexes": [
-          0
-        ],
+        "GpuIndexes": [],
         "TestAllGpus": false,
         "GpuIndex": 0,
         "MemoryInMiB": 0,
@@ -484,9 +478,7 @@
       },
       "PowerSupplyConfig": {
         "CpuOcctInstructionSet": "Auto",
-        "GpuIndexes": [
-          0
-        ],
+        "GpuIndexes": [],
         "TestAllGpus": false
       },
       "CombinedConfig": {
@@ -547,9 +539,7 @@
           "Mode": "ErrorDetection",
           "UsageLimit": 100,
           "ShaderComplexity": 3,
-          "GpuIndexes": [
-            0
-          ],
+          "GpuIndexes": [],
           "TestAllGpus": false,
           "Priority": "Normal"
         },
@@ -565,9 +555,7 @@
           "SwitchInterval": 500,
           "SwitchFirstIntensity": 20,
           "SwitchSecondIntensity": 100,
-          "GpuIndexes": [
-            0
-          ],
+          "GpuIndexes": [],
           "TestAllGpus": false,
           "Priority": "Normal"
         },
@@ -582,9 +570,7 @@
         },
         "Vram": false,
         "VramConfig": {
-          "GpuIndexes": [
-            0
-          ],
+          "GpuIndexes": [],
           "TestAllGpus": false,
           "GpuIndex": 0,
           "MemoryInMiB": 0,
